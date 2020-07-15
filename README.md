@@ -120,7 +120,7 @@
 ### 登壇歴
 
 - CodeChrysalis BigMiniConf<br/>
-  - 「ブラウザ拡張機能」<a href='https://www.youtube.com/watch?v=fhKgdzXkQeM'>YouTube </a>(00:00~)
+  - 「ブラウザ拡張機能」<a href='https://www.youtube.com/watch?v=fhKgdzXkQeM'>YouTube </a>(33:00~)
 - CodeChrysalis DemoDay
   - <a href=''>YouTube</a>
 
