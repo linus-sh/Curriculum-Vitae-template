@@ -11,7 +11,10 @@
 ### CodeChysalis 日本語イマーシブ 受講生　(2020/05~2020/07)
 
 - JavaScript を中心にフロントエンドからバックエンドまで幅広く学習する。
-- 学習過程で 1 週間で新たに Python を学習し、アプリ開発も行う。Python ライブラリを用いたゲームを開発。
+- SpotifyAPI を用いた Web アプリの開発。
+  - 3 間で SpotifyAPI について学習し、Web アプリを開発、デプロイした。
+- 新たに Python を学習し、アプリ開発も行う。Python ライブラリを用いたゲームを開発。
+  - 1 週間で Python を学習し、ライブラリを用いたゲームを開発した、
 - 最終プロジェクトではバックエンドエンジニアとして AWS を用いた Web アプリの環境構築を行う。
   - EC2 インスタンスの立ち上げ、仮想サーバー環境の構築。
   - CodeDeploy を用いた GitHub と連携した自動デプロイ環境の構築。
@@ -108,12 +111,15 @@
 
 ## ポートフォリオ
 
+- <a href="https://spotify-project-beta.herokuapp.com/">Hoocked</a></br>
+  (SpotifyAPI を用いた楽曲検索支援 Web アプリ)</br>
+  <a href="https://github.com/ccj1-spotify-project/spotify-project">GitHub</a>
 - Do you like Spam ? <br>
   (Python で開発したゲーム)
   <a href="https://github.com/linus-sh/spam-game">GitHub</a>
 - らくたび <br>
   (最終プロジェクトで開発した旅行支援 Web アプリ)
-  <a href="">GitHub</a>
+  <a href="https://github.com/ccj1-senior-project/ccj1-senior-project">GitHub</a>
 
 ## 課外活動
 
