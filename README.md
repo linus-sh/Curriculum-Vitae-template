@@ -11,18 +11,21 @@
 ### CodeChysalis 日本語イマーシブ 受講生　(2020/05~2020/07)
 
 - JavaScript を中心にフロントエンドからバックエンドまで幅広く学習する。
-  - NodeJS,Express.JS を用いたサーバー、独自 API 構築。
+  - NodeJS,Express.JS を用いたサーバーの構築
+  - ExpressJS を用いた RESTFulAPI の構築。
   - React、Vue を用いたフロントエンド UI の構築。
+- JavaScript のみを用いてでフルスタックで Web アプリの開発。
+  - 2 日間で NodeJS、ReactJS を用いた体調管理 Web アプリを開発。
 - SpotifyAPI を用いた Web アプリの開発。
-  - 3 日間で SpotifyAPI について学習し、Web アプリを開発、デプロイした。
-- 新たに Python を学習し、アプリ開発も行う。Python ライブラリを用いたゲームを開発。
-  - 1 週間で Python を学習し、ライブラリを用いたゲームを開発した、
+  - 3 日間で SpotifyAPI について学習し、Web アプリを開発、Heroku にデプロイした。
+- 短期間で Python を学習し、アプリを開発。
+  - 1 週間で Python を学習し、ライブラリを用いたゲームを開発した。
 - 最終プロジェクトではバックエンドエンジニアとして AWS を用いた Web アプリの環境構築を行う。
   - EC2 インスタンスの立ち上げ、仮想サーバー環境の構築。
   - CodeDeploy を用いた GitHub と連携した自動デプロイ環境の構築。
   - CodePilepine を用いた継続的インテグレーション環境の構築。
+  - SystemManager の ParameterStore をを用いた環境変数の管理。
   - Nginx を用いたリバースプロキシ環境の構築。
-  - SSL 証明書を取得し、クライアント-アプリを https 通信に対応させる。
 
 ### 職業訓練 （2019/05 - 2019/07）
 
@@ -31,21 +34,21 @@
 
 ### 株式会社三洋商店 (2016/10 - 2019/01)
 
-#### 経理業務<br/>
+#### 経理業務
 
-- 担当業務<br/>
+- 担当業務<br>
   各事業部の経費精算、月次決算作成、年次決算作成業務に従事する。
 
-- 実績<br/>
-  従来紙大腸で行っていた作業を電子化することによる業務の効率化を行う。エクセルの関数、マクロを用いたテンプレート作成により、入力補助、集計自動化などを行うことで従来最大で 8 時間要していた作業を 1 時間で完了できるようになる。
+- 実績<br>
+  従来紙台帳で行っていた作業を電子化することによる業務の効率化を行う。エクセルの関数、マクロを用いたテンプレート作成により、入力補助、集計自動化などを行うことで作業時間を最大で 8 時間から 1 時間に短縮することに成功する。
 
-#### インターネット通信販売事業<br/>
+#### インターネット通信販売事業
 
-- 担当業務<br/>
-  売上管理、購入者との連絡、入金管理、発送管理を行う。
+- 担当業務<br>
+  売上管理、購入者との連絡、入金管理、発送管理。
 
-- 実績 <br/>
-  売上から発送までの一連の管理業務の業務効率化を行う。従来紙帳簿で売上、入金、発送状態を管理していたところ、使用していていたネット通信販売のシステムに管理業務を統合。極力紙を使用せずに、従来手書きで行っていた業務をシステム化することで一日当たりの作業時間を最大で 6 時間削減することに成功する。
+- 実績 <br>
+  売上発生から発送までの一連の管理業務の業務効率化を行う。一連の業務を精査し従来紙台帳、手書き書類で行っていた業務を電子化することで一日当たりの作業時間を最大で 6 時間削減することに成功する。
 
 ### 大学卒業後
 
@@ -64,29 +67,29 @@
 
 - フロントエンド フレームワーク/ライブラリ
 
-  - <a href="https://ja.reactjs.org/">React</a> (UI 構築ライブラリ)
-  - <a href="https://redux.js.org/">Redux</a>(State 管理ライブラリ)
-  - <a href="https://jp.vuejs.org/index.html">Vue</a>(UI 構築フレームワーク)
+  - [React](https://ja.reactjs.org/) (UI 構築ライブラリ)
+  - [Redux](https://redux.js.org/)(State 管理ライブラリ)
+  - [Vue](https://jp.vuejs.org/index.html)(UI 構築フレームワーク)
 
 - サーバサイド開発
 
-  - <a href="https://nodejs.org/ja/">NodeJS</a>(JavaScript、サーバー実行環境)
-  - <a href="https://expressjs.com/">Express</a>(サーバーフレームワーク)
+  - [NodeJS](https://nodejs.org/ja/)(JavaScript、サーバー実行環境)
+  - [Express](https://expressjs.com)(サーバーフレームワーク)
 
 - データベース
 
-  - <a href="https://www.postgresql.org/">Postgres</a>(DBS)
-  - <a href="http://knexjs.org/">Knex</a>(クエリービルダー)
+  - [Postgres](https://www.postgresql.org/)(DBS)
+  - [Knex](http://knexjs.org/)(クエリービルダー)
 
 - インフラ構築
 
-  - <a href="https://aws.amazon.com/jp/ec2/">AWS EC2</a>(仮想サーバー構築)
-  - <a href="https://aws.amazon.com/jp/codedeploy/">AWS CodeDeploy</a>(自動デプロイ)
-  - <a href="https://aws.amazon.com/jp/ecodepypeline/">AWS CodePipeline</a>(継続的インテグレーション - CI/CD)
+  - [AWS EC2](https://aws.amazon.com/jp/ec2/)(仮想サーバー構築)
+  - [AWS CodeDeploy](https://aws.amazon.com/jp/codedeploy/)(自動デプロイ)
+  - [AWS CodePipeline](https://aws.amazon.com/jp/ecodepypeline/)(継続的インテグレーション - CI/CD)
 
 - テストフレームワーク
-  - <a href="https://mochajs.org/"> Mocha</a>
-  - <a href="https://jasmine.github.io/">Jasmine</a>
+  - [Mocha](https://mochajs.org/)
+  - [Jasmine](https://jasmine.github.io/)
 
 ### その他
 
@@ -108,30 +111,37 @@
 
 ## やったことはないが興味があるもの
 
+- React Router
+- モバイルアプリ開発(Swift, Dart, Xamarin)
+- Docker
 - ServerLess Framework
-- 機械学習
+- ディープラーニング
+- 公開鍵暗号
 - ブロックチェーン
 
 ## ポートフォリオ
 
-- <a href="https://spotify-project-beta.herokuapp.com/">Hoocked</a></br>
-  (SpotifyAPI を用いた楽曲検索支援 Web アプリ)</br>
-  <a href="https://github.com/ccj1-spotify-project/spotify-project">GitHub</a>
-- Do you like Spam ? <br>
+- [Hoocked](https://spotify-project-beta.herokuapp.com/)</br>
+  (SpotifyAPI を用いた楽曲検索支援 Web アプリ)
+  [Github](https://github.com/ccj1-spotify-project/spotify-project)
+
+- Do you like SPAM ?<br>
   (Python で開発したゲーム)
-  <a href="https://github.com/linus-sh/spam-game">GitHub</a>
-- らくたび <br>
+  [Github](https://github.com/linus-sh/spam-game)
+
+- [らくたび](http://ccj1-rakutabi.cc) <br>
   (最終プロジェクトで開発した旅行支援 Web アプリ)
-  <a href="https://github.com/ccj1-senior-project/ccj1-senior-project">GitHub</a>
+  [Github](https://github.com/ccj1-senior-project/ccj1-senior-project)
 
 ## 課外活動
 
 ### 登壇歴
 
-- CodeChrysalis BigMiniConf(2020//06/26)
-  - 「ブラウザ拡張機能」<a href='https://www.youtube.com/watch?v=fhKgdzXkQeM'>YouTube </a>(33:00~)
+- CodeChrysalis BigMiniConf(2020/06/26)
+  - ブラウザ拡張機能<br>
+    [YouTube](https://www.youtube.com/watch?v=fhKgdzXkQeM)(33:00~)
 - CodeChrysalis DemoDay(2020/07/23)
-  - 「」<a href=''>YouTube</a>
+  - [YouTube]()
 
 ## 自己 PR
 
@@ -142,9 +152,9 @@ CodeChrysalis で JavaScript を中心にフロントエンド、バックエン
 
 <!-- 自身があること -->
 
-AWS での環境構築には誰よりも取り組んできました。EC2 インスタンスの構築、CodeDeploy を用いた GitHub と連携した EC2 インスタンス上へのコードの自動デプロイ / ビルド、また CodeCppeline を構築することによる CI/CD の構築にも取り組んできました。
+AWS での環境構築には誰よりも取り組んできました。具体的には EC2 インスタンスの構築、CodeDeploy を用いた GitHub と連携した EC2 インスタンス上へのコードの自動デプロイ / ビルド、また CodeCppeline を構築することによる CI/CD の構築にも取り組んできました。
 
 <!-- これからやりたいこと -->
 
 AWS の他のサービスや組み合わせのベストプラクティスなどを習得したいです。
-また、AWS Lambda やサーバーレスフレームワークといったサーバーレス 、コードベースでのサーバー構築、管理や機械学習 / ディープラーニングにも興味があるので今後取り組んでいきたいです。
+また、AWS Lambda やサーバーレスフレームワークといったサーバーレス 、コードベースでのサーバー構築や ディープラーニングにも興味があるので今後取り組んでいきたいです。
