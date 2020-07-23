@@ -74,7 +74,7 @@
 - サーバサイド開発
 
   - [NodeJS](https://nodejs.org/ja/)(JavaScript、サーバー実行環境)
-  - [Express](https://expressjs.com)(サーバーフレームワーク)
+  - [ExpressJS](https://expressjs.com)(サーバーフレームワーク)
 
 - データベース
 
@@ -83,13 +83,21 @@
 
 - インフラ構築
 
+  - [AWS VPC](https://aws.amazon.com/jp/vpc/)(仮想クラウド空間構築)
   - [AWS EC2](https://aws.amazon.com/jp/ec2/)(仮想サーバー構築)
   - [AWS CodeDeploy](https://aws.amazon.com/jp/codedeploy/)(自動デプロイ)
   - [AWS CodePipeline](https://aws.amazon.com/jp/ecodepypeline/)(継続的インテグレーション - CI/CD)
+  - [AWS Certificate Maneger](https://aws.amazon.com/jp/certificate-manager/)(https 通信用の SSL 証明書発行)
+  - [AWS Systems Manager](https://aws.amazon.com/jp/systems-manager/)(ParametorStore を用いた環境変数管理)
+  <!-- - [AWS Route53](https://aws.amazon.com/jp/route53/)(DNS サーバー、EC2 インスタンスへの https 通信の構築) -->
 
 - テストフレームワーク
+
   - [Mocha](https://mochajs.org/)
   - [Jasmine](https://jasmine.github.io/)
+
+- ゲームライブラリ
+  - [pygame](https://www.pygame.org/news)(python 用のゲーム作成、実行環境ライブラリ)
 
 ### その他
 
@@ -98,7 +106,7 @@
   - (Heroku Pipeline, AWS CodeDEploy / CodePipeline)
 
 - TDD - テスト駆動開発
-- ペアプログラミング
+- ペアプログラミング([VSCode LiveShare](https://visualstudio.microsoft.com/ja/services/live-share/))
 - アジャイル開発
 
 ## 言語
@@ -111,16 +119,22 @@
 
 ## やったことはないが興味があるもの
 
-- React Router
+- [React Router](https://reactrouter.com/)
+- [React Native](https://reactnative.dev/)
+- [React BootStrap](https://react-bootstrap.github.io/)
+- [Material UI](https://material-ui.com/)
+- [Docker](https://www.docker.com/)
+- [ServerLess Framework](https://www.serverless.com/)
 - モバイルアプリ開発(Swift, Dart, Xamarin)
-- Docker
-- ServerLess Framework
 - ディープラーニング
 - 公開鍵暗号
 - ブロックチェーン
 
 ## ポートフォリオ
 
+- BackGroundColorChanger<br>
+  (GoogleChrome 向け拡張機能)
+  [GitHub](https://github.com/linus-sh/BackGroundColorChanger)
 - [Hoocked](https://spotify-project-beta.herokuapp.com/)</br>
   (SpotifyAPI を用いた楽曲検索支援 Web アプリ)
   [Github](https://github.com/ccj1-spotify-project/spotify-project)
