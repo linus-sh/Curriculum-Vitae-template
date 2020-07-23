@@ -14,8 +14,8 @@
   - NodeJS,Express.JS を用いたサーバーの構築
   - ExpressJS を用いた RESTFulAPI の構築。
   - React、Vue を用いたフロントエンド UI の構築。
-- JavaScript のみを用いてでフルスタックで Web アプリの開発。
-  - 2 日間で NodeJS、ReactJS を用いた体調管理 Web アプリを開発。
+- JavaScript のみを用いてフルスタックで Web アプリの開発。
+  - 2 日間で NodeJS、ExpressJS, ReactJS を用いた体調管理 Web アプリを開発。
 - SpotifyAPI を用いた Web アプリの開発。
   - 3 日間で SpotifyAPI について学習し、Web アプリを開発、Heroku にデプロイした。
 - 短期間で Python を学習し、アプリを開発。
@@ -164,7 +164,7 @@
 CodeChrysalis で JavaScript を中心にフロントエンド、バックエンドも一通り学習してきました。
 それ以前はコードにはほとんど触れてきませんでしたが、今では基本的なロジックの構築からサーバーや API の構築、フロントエンド UI の構築までフルスタックでアプリを作成できるようになりました。
 
-<!-- 自身があること -->
+<!-- 自信があること -->
 
 AWS での環境構築には誰よりも取り組んできました。具体的には EC2 インスタンスの構築、CodeDeploy を用いた GitHub と連携した EC2 インスタンス上へのコードの自動デプロイ / ビルド、また CodeCppeline を構築することによる CI/CD の構築にも取り組んできました。
 
