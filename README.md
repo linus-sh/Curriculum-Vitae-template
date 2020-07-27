@@ -25,7 +25,7 @@
   - CodeDeploy を用いた GitHub と連携した自動デプロイ環境の構築。
   - CodePilepine を用いた継続的インテグレーション環境の構築。
   - SystemManager の ParameterStore をを用いた環境変数の管理。
-  - Nginx を用いたリバースプロキシ環境の構築。
+  - NGINX を用いたリバースプロキシ環境の構築。
 
 ### 職業訓練 （2019/05 - 2019/07）
 
@@ -106,7 +106,8 @@
   - (Heroku Pipeline, AWS CodeDEploy / CodePipeline)
 
 - TDD - テスト駆動開発
-- ペアプログラミング([VSCode LiveShare](https://visualstudio.microsoft.com/ja/services/live-share/))
+- ペアプログラミング
+  - ([VSCode LiveShare](https://visualstudio.microsoft.com/ja/services/live-share/))
 - アジャイル開発
 
 ## 言語
@@ -134,18 +135,22 @@
 
 - BackGroundColorChanger<br>
   (GoogleChrome 向け拡張機能)
+  ![background_color-changer](./screen_shot/background_color_changer.png)
   [GitHub](https://github.com/linus-sh/BackGroundColorChanger)
 - [Hoocked](https://spotify-project-beta.herokuapp.com/)</br>
   (SpotifyAPI を用いた楽曲検索支援 Web アプリ)
   [Github](https://github.com/ccj1-spotify-project/spotify-project)
+  ![hoocked](./screen_shot/hoocked.png)
 
 - Do you like SPAM ?<br>
   (Python で開発したゲーム)
   [Github](https://github.com/linus-sh/spam-game)
+  ![do_you_like_spam](./screen_shot/spam_game.png)
 
 - [らくたび](http://ccj1-rakutabi.cc) <br>
   (最終プロジェクトで開発した旅行支援 Web アプリ)
   [Github](https://github.com/ccj1-senior-project/ccj1-senior-project)
+  ![rakutabi](./screen_shot/rakutabi.png)
 
 ## 課外活動
 
@@ -153,22 +158,30 @@
 
 - CodeChrysalis BigMiniConf(2020/06/26)
   - ブラウザ拡張機能<br>
-    [YouTube](https://www.youtube.com/watch?v=fhKgdzXkQeM)(33:00~)
+    - [YouTube](https://www.youtube.com/watch?v=fhKgdzXkQeM)(33:00〜)
 - CodeChrysalis DemoDay(2020/07/23)
-  - [YouTube]()
+  - [YouTube](https://www.youtube.com/watch?v=aUhk2Wzb8Hk)
+    - (38:10〜 個人プロジェクト)
+    - (55:30〜 最終プロジェクト)
 
 ## 自己 PR
 
 <!-- 今まで -->
 
-CodeChrysalis で JavaScript を中心にフロントエンド、バックエンドも一通り学習してきました。
-それ以前はコードにはほとんど触れてきませんでしたが、今では基本的なロジックの構築からサーバーや API の構築、フロントエンド UI の構築までフルスタックでアプリを作成できるようになりました。
+前職では、主に経理業務に携わっていました。またその中で、エクセルの関数、マクロを用いたテンプレート作成により、業務の効率化も行い、入力補助、集計自動化などを行うことで最大で 8 時間要していた作業を 1 時間で完了できるようになりました。
+
+またネット通信販売事業部においても、売上管理業務の業務効率化を行いました。従来紙帳簿で売上、入金、発送状態を管理していたところ、用いていたネット通信販売のシステムに管理業務を統合。極力紙を廃止し、従来手書きで行っていた業務をシステム化することで一日辺りの作業時間を最大で 6 時間削減することに成功しました。
+
+定例、定型業務が多いバックオフィス業務ではなく、スピード感のある、世界の最先端に触れられる仕事をしたいと考えエンジニアへのキャリアチェンジを決意、退職しました。
+
+コーディングテストを突破して CodeChrisalis 日本語イマーシブに参加。JavaScript を軸として ReactJS や Redux といったフロントエンド技術、NodeJs や ExpressJS 等のバックエンド技術を学び、Web アプリをフルスッタックで作成できるようになりました。
 
 <!-- 自信があること -->
 
-AWS での環境構築には誰よりも取り組んできました。具体的には EC2 インスタンスの構築、CodeDeploy を用いた GitHub と連携した EC2 インスタンス上へのコードの自動デプロイ / ビルド、また CodeCppeline を構築することによる CI/CD の構築にも取り組んできました。
+AWS での環境構築には誰よりも取り組んできました。CodeChrysalis の最終プロジェクトではアプリのインフラ環境の構築を一手に引き受けました。Web アプリやの実行環境としての EC2 インスタンスの構築、また CodeDeploy、CodePipeline を用いたことによる GitHub からのコードの自動デプロイ、またデプロイに hook を掛けることでデプロイ前処理、及びデプロイ後のコードのビルド、及びサーバー、アプリの起動を自動化しました。まだデプロイの過程で AWS SystemManager の ParameterStore を用いた環境変数の管理、EC2 インスタンスへの展開も行いました、
 
 <!-- これからやりたいこと -->
 
-AWS の他のサービスや組み合わせのベストプラクティスなどを習得したいです。
-また、AWS Lambda やサーバーレスフレームワークといったサーバーレス 、コードベースでのサーバー構築や ディープラーニングにも興味があるので今後取り組んでいきたいです。
+今後は AWS の他のサービスや組み合わせのベストプラクティスなどを習得したいです。
+CodeChrysalis 最終プロジェクトの次段階として AWS Certificate Maneger, ElascitLoadBalancer, AWS Route53 を利用したサイトの https 対応に取り組みたいと考えています。
+また、AWS Lambda や Docker, ServerlseeFramework といったサーバーレス 、コードベースでのサーバー構築や ディープラーニングにも興味があるので今後取り組んでいきたいです。
