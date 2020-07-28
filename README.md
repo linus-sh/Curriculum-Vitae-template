@@ -8,14 +8,14 @@
 
 ## 職務経歴
 
-### CodeChysalis 日本語イマーシブ 受講生　(2020/05~2020/07)
+### CodeChysalis 日本語イマーシブ 受講生 (2020/05~2020/07)
 
 - JavaScript を中心にフロントエンドからバックエンドまで幅広く学習する。
   - NodeJS,Express.JS を用いたサーバーの構築
   - ExpressJS を用いた RESTFulAPI の構築。
   - React、Vue を用いたフロントエンド UI の構築。
-- JavaScript のみを用いてフルスタックで Web アプリの開発。
-  - 2 日間で NodeJS、ExpressJS, ReactJS を用いた体調管理 Web アプリを開発。
+- 短期間でフルスタックで Web アプリの開発。
+  - 2 日間で NodeJS、ExpressJS, ReactJS、KnexJS, Postgres を用いた体調管理 Web アプリを開発。
 - SpotifyAPI を用いた Web アプリの開発。
   - 3 日間で SpotifyAPI について学習し、Web アプリを開発、Heroku にデプロイした。
 - 短期間で Python を学習し、アプリを開発。
@@ -130,27 +130,60 @@
 - ディープラーニング
 - 公開鍵暗号
 - ブロックチェーン
+  <br><br>
 
 ## ポートフォリオ
 
 - BackGroundColorChanger<br>
-  (GoogleChrome 向け拡張機能)
-  ![background_color-changer](./screen_shot/background_color_changer.png)
+  (GoogleChrome 向け拡張機能。GoogleChrome で現在開いているタブの背景色を変更できるブラウザ拡張機能。)<br>
   [GitHub](https://github.com/linus-sh/BackGroundColorChanger)
-- [Hoocked](https://spotify-project-beta.herokuapp.com/)</br>
-  (SpotifyAPI を用いた楽曲検索支援 Web アプリ)
+
+  - 担当範囲
+    - ソロプロジェクト
+
+  * テックスタック
+    - html, css, JavaScript
+
+![background_color-changer](./screen_shot/background_color_changer.png)<br><br><br>
+
+- [Hooked](https://spotify-project-beta.herokuapp.com/)</br>
+  (SpotifyAPI を用いた楽曲検索支援 Web アプリ。今人気の楽曲だけでなく地域、年代別の人気曲を検索できます
+  。)<br>
   [Github](https://github.com/ccj1-spotify-project/spotify-project)
-  ![hoocked](./screen_shot/hoocked.png)
+
+  - 担当範囲
+    - 使用する API の選定、及び API から情報を取得するバックエンド処理の実装
+
+  * テックスタック
+    - React, JavaScript, Material UI, Spotify API
+
+![hooked](./screen_shot/hoocked.png)<br><br><br>
 
 - Do you like SPAM ?<br>
-  (Python で開発したゲーム)
+  (Python で開発したクリックゲーム。プログラミング言語 Python の語源となったコメディグループ、MontyPython にちなんで彼らの有名スケッチ、SPAM を模したゲームです。)<br>
   [Github](https://github.com/linus-sh/spam-game)
-  ![do_you_like_spam](./screen_shot/spam_game.png)
+
+  - 担当範囲
+    - ソロプロジェクト
+
+  * テックスタック
+    - Python、pygame
+
+![do_you_like_spam](./screen_shot/spam_game.png)<br><br><br>
 
 - [らくたび](http://ccj1-rakutabi.cc) <br>
-  (最終プロジェクトで開発した旅行支援 Web アプリ)
+  (最終プロジェクトで開発した旅行支援 Web アプリ。旅行先、及びそのルート作成を支援する Web アプリケーション
+  )<br>
   [Github](https://github.com/ccj1-senior-project/ccj1-senior-project)
-  ![rakutabi](./screen_shot/rakutabi.png)
+
+  - 担当範囲
+    - AWS EC2 仮想サーバーを利用した Web アプリ実行環境構築
+    - AWS CodeDeploy, CodePipeline を利用した GitHub と連携した CI/CD 環境の構築
+
+  * テックスタック
+    - NextJS, React, Redux, Material UI, JavaScript, AWS(VPC, EC2, CodeDeploy, CodePipeline, Lambda, API GateWay, DynamoDB, Cognito), Rakuten Rapid API, Google Map API
+
+![rakutabi](./screen_shot/rakutabi.png)
 
 ## 課外活動
 
@@ -168,9 +201,9 @@
 
 <!-- 今まで -->
 
-前職では、主に経理業務に携わっていました。またその中で、エクセルの関数、マクロを用いたテンプレート作成により、業務の効率化も行い、入力補助、集計自動化などを行うことで最大で 8 時間要していた作業を 1 時間で完了できるようになりました。
+前職では、主に経理業務に携わっていました。業務の遂行においては常に業務の最適化、効率化を意識して取り組んできました。その結果、エクセルの関数、マクロを用いたテンプレート作成により、入力補助、集計自動化などを行うことで最大で 8 時間要していた作業を 1 時間で完了できるようになりました。
 
-またネット通信販売事業部においても、売上管理業務の業務効率化を行いました。従来紙帳簿で売上、入金、発送状態を管理していたところ、用いていたネット通信販売のシステムに管理業務を統合。極力紙を廃止し、従来手書きで行っていた業務をシステム化することで一日辺りの作業時間を最大で 6 時間削減することに成功しました。
+また一時期携わっていたインターネット通信販売事業部においても、売上管理業務の業務効率化を行いました。従来紙帳簿で売上、入金、発送状態を管理していたところ、用いていたインターネット通信販売サイトのシステムに管理業務を統合。極力紙を廃止し、従来手書きで行っていた業務をシステム化することで一日辺りの作業時間を最大で 6 時間削減することに成功しました。
 
 定例、定型業務が多いバックオフィス業務ではなく、スピード感のある、世界の最先端に触れられる仕事をしたいと考えエンジニアへのキャリアチェンジを決意、退職しました。
 
@@ -182,6 +215,6 @@ AWS での環境構築には誰よりも取り組んできました。CodeChrysa
 
 <!-- これからやりたいこと -->
 
-今後は AWS の他のサービスや組み合わせのベストプラクティスなどを習得したいです。
+今後は AWS の他のサービスや組み合わせのベストプラクティスなどを習得したいと考えています。
 CodeChrysalis 最終プロジェクトの次段階として AWS Certificate Maneger, ElascitLoadBalancer, AWS Route53 を利用したサイトの https 対応に取り組みたいと考えています。
 また、AWS Lambda や Docker, ServerlseeFramework といったサーバーレス 、コードベースでのサーバー構築や ディープラーニングにも興味があるので今後取り組んでいきたいです。
