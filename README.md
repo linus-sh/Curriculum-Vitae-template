@@ -172,8 +172,8 @@
 ![do_you_like_spam](./screen_shot/spam_game.png)<br><br><br>
 
 - [らくたび](http://ccj1-rakutabi.cc) <br>
-  (最終プロジェクトで開発した旅行支援 Web アプリ。旅行先、及びそのルート作成を支援する Web アプリケーション
-  )<br>
+  (CodeChrysalis の最終プロジェクトで開発した旅行支援 Web アプリ。地域を指定するとその地域の代表的な観光スポットが GoogleMap 上で表示されます。複数の観光スポットを選択すると GoogleMap 上で最適なルートが表示され、旅行計画の作成をサポートします。)
+  <br>
   [Github](https://github.com/ccj1-senior-project/ccj1-senior-project)
 
   - 担当範囲
