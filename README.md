@@ -141,7 +141,7 @@
 ## ポートフォリオ
 
   - [らくたび](http://ccj1-rakutabi.cc)
-    + [Github](https://github.com/ccj1-senior-project/ccj1-senior-project)
+    + [GitHub](https://github.com/ccj1-senior-project/ccj1-senior-project)
 
 ![rakutabi](./screen_shot/rakutabi.png)
 
@@ -163,7 +163,7 @@
 
 
   - [Hooked](https://spotify-project-beta.herokuapp.com/)
-    + [Github](https://github.com/ccj1-spotify-project/spotify-project)
+    + [GitHub](https://github.com/ccj1-spotify-project/spotify-project)
 
 ![hooked](./screen_shot/hoocked.png)
 
@@ -184,7 +184,7 @@
 
 
   - Do you like SPAM ?
-    + [Github](https://github.com/linus-sh/spam-game)
+    + [GitHub](https://github.com/linus-sh/spam-game)
 
 ![do_you_like_spam](./screen_shot/spam_game.png)
 
@@ -196,7 +196,7 @@
     CodeChrysalisのプロジェクトで作成したアプリです。1週間(実質5日未満)で触れたことのない言語をを学んでアプリを作成するプロジェクトで作成しました。
 
     + 最初の2日でまずPythonの基本を学習し、残りの期間で作成しました。短い期間で学習し、アプリを作成らなければならなかったので短時間で効果的に、最低限のことのみを学習してアプリの制作に取り組むよう時間配分には気を使いました。
-    + プログラミング言語Pythonの語源になったイギリスのコメディグループ、MontyPython にちなんで彼らの名コント、SPAMを模して作成しました。
+    + プログラミング言語Pythonの語源になったイギリスのコメディグループ、MontyPythonにちなんで彼らの名コント、SPAMを模して作成しました。
 
   - テックスタック
     Python、pygame
