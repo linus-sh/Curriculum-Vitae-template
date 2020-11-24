@@ -177,8 +177,8 @@
   - テックスタック
     + NextJS、React、Redux、Material UI、JavaScript、AWS(VPC、EC2、CodeDeploy、CodePipeline、Lambda、API GateWay、DynamoDB、Cognito)、Rakuten Rapid API、Google Map API
 
-<br>
-
+<br><br>
+
 
 ### ・[Hooked](https://spotify-project-beta.herokuapp.com/)
 
