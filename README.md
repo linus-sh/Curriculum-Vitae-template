@@ -123,6 +123,8 @@
     + ([VSCode LiveShare](https://visualstudio.microsoft.com/ja/services/live-share/))
   - アジャイル開発
 
+<br>
+
 
 ## 言語
 
@@ -131,6 +133,8 @@
   - 英語
     + かんたんな日常会話ができる
     + TOEIC : 810点
+
+<br>
 
 
 ## やったことはないが興味があるもの
@@ -177,7 +181,7 @@
   - テックスタック
     + NextJS、React、Redux、Material UI、JavaScript、AWS(VPC、EC2、CodeDeploy、CodePipeline、Lambda、API GateWay、DynamoDB、Cognito)、Rakuten Rapid API、Google Map API
 
-<br><br>
+<br>
 
 
 ### ・[Hooked](https://spotify-project-beta.herokuapp.com/)
@@ -200,7 +204,6 @@
 
 
 <br>
-
 
 
 ### ・Do you like SPAM ?
@@ -241,6 +244,10 @@
 
   - テックスタック
     + HTML、CSS、JavaScript
+
+
+<br>
+<br>
 
 
 ## 課外活動
